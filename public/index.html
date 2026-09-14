@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Signal Atlas · X 信息看板</title>
+<meta name="description" content="在 X 上发现值得关注的 AI 账号、动态与趋势。">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="splash" class="splash" aria-label="Loading">
+  <div class="splash-mark">𝕏</div>
+  <div class="splash-line"><span></span></div>
+  <p>CURATING SIGNALS FROM X</p>
+</div>
+<header class="topbar">
+  <div class="utility-row"><a class="wordmark" href="/" aria-label="Signal Atlas 首页">𝕏 <span>Signal Atlas</span></a><div class="utilities"><a class="author-link" href="https://github.com/codeman008" target="_blank" rel="noopener">作者 · codeman008 ↗</a><button id="editBtn" class="ghost" data-i18n="manage">管理账号</button><button id="langBtn" class="ghost" title="中文 / English">EN</button><button id="fsBtn" class="ghost" title="全屏展示">⛶</button></div></div>
+  <div class="brand"><span class="logo" aria-label="X">𝕏</span><h1 data-i18n="title">AI Signal Atlas</h1><p class="slogan" data-i18n="slogan">洞察 X 上正在发生的智能变化。</p><p class="sub" id="subtitle"></p><span id="accountCount" hidden></span></div>
+  <div class="controls"><label class="search-field"><span class="search-label" data-i18n="search_label">探索</span><input type="search" id="search" aria-label="Search accounts and posts" data-i18n-ph="search" placeholder="搜索账号或动态…"><kbd>/</kbd></label><button id="refresh" class="refresh" data-i18n="refresh">刷新</button></div>
+  <nav class="views" id="views" aria-label="Views">
+    <button data-view="home" class="active" data-i18n="v_home">知识图谱</button><button data-view="board" data-i18n="v_board">分类看板</button><button data-view="timeline" data-i18n="v_timeline">时间线</button><button data-view="today" data-i18n="v_today">今日</button><button data-view="rank" data-i18n="v_rank">排行榜</button><button data-view="fav" data-i18n="v_fav">收藏</button>
+  </nav>
+</header>
+<div class="statusbar"><div id="catFilter" class="cat-filter"></div><div class="meta" id="meta" aria-live="polite"></div></div>
+
+<main id="content"><div class="empty" id="empty" data-i18n="loading">加载中…</div></main>
+
+<template id="cardTpl">
+  <article class="card">
+    <div class="avatar-wrap"><img class="avatar" alt="" loading="lazy"></div>
+    <div class="card-main">
+      <div class="card-head">
+        <a class="author" target="_blank" rel="noopener"></a>
+        <span class="handle"></span>
+        <time class="time"></time>
+      </div>
+      <div class="card-body"></div>
+      <div class="card-foot">
+        <span class="cat-tag"></span>
+        <span class="stats"></span>
+        <span class="spacer"></span>
+        <a class="open" target="_blank" rel="noopener" data-i18n="open">打开 ↗</a>
+        <button class="star" title="收藏">☆</button>
+      </div>
+    </div>
+  </article>
+</template>
+
+<!-- 单模块全屏展示层 -->
+<div id="fsOverlay" class="fs-overlay hidden">
+  <div class="fs-head">
+    <span class="fs-dot"></span>
+    <h2 id="fsTitle"></h2>
+    <span class="fs-count" id="fsCount"></span>
+    <span class="spacer"></span>
+    <button id="fsClose" class="ghost">✕</button>
+  </div>
+  <div class="fs-body" id="fsBody"></div>
+</div>
+
+<!-- 账号管理弹窗 -->
+<div id="editor" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h2 data-i18n="manage_title">账号管理</h2>
+      <button id="editorClose" class="ghost">✕</button>
+    </div>
+    <div class="modal-body" id="editorBody"></div>
+    <div class="modal-foot">
+      <button id="addCat" class="ghost" data-i18n="add_cat">+ 添加分类</button>
+      <span class="spacer"></span>
+      <span id="editorMsg" class="editor-msg"></span>
+      <button id="editorCancel" class="ghost" data-i18n="cancel">取消</button>
+      <button id="editorSave" class="refresh" data-i18n="save">保存</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

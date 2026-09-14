@@ -1,0 +1,1553 @@
+{
+  "categories": [
+    {
+      "id": "labs",
+      "name": "官方与实验室",
+      "color": "#0ea5e9",
+      "accounts": [
+        {
+          "handle": "OpenAI",
+          "name": "OpenAI",
+          "desc": ""
+        },
+        {
+          "handle": "AnthropicAI",
+          "name": "Anthropic",
+          "desc": ""
+        },
+        {
+          "handle": "GoogleDeepMind",
+          "name": "Google DeepMind",
+          "desc": ""
+        },
+        {
+          "handle": "AIatMeta",
+          "name": "AIatMeta",
+          "desc": ""
+        },
+        {
+          "handle": "spacexai",
+          "name": "spacexai",
+          "desc": ""
+        },
+        {
+          "handle": "nvidia",
+          "name": "NVIDIA",
+          "desc": ""
+        },
+        {
+          "handle": "HuggingFace",
+          "name": "Hugging Face",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-tech",
+      "name": "中文 · 提示词与技术",
+      "color": "#ef4444",
+      "accounts": [
+        {
+          "handle": "dotey",
+          "name": "宝玉",
+          "desc": ""
+        },
+        {
+          "handle": "lilianweng",
+          "name": "Lilian Weng",
+          "desc": ""
+        },
+        {
+          "handle": "dongxi_nlp",
+          "name": "马东锡",
+          "desc": ""
+        },
+        {
+          "handle": "Barret_China",
+          "name": "Barret李靖",
+          "desc": ""
+        },
+        {
+          "handle": "xicilion",
+          "name": "响马",
+          "desc": ""
+        },
+        {
+          "handle": "lidangzzz",
+          "name": "立党老师",
+          "desc": ""
+        },
+        {
+          "handle": "PMbackttfuture",
+          "name": "AI产品黄叔",
+          "desc": ""
+        },
+        {
+          "handle": "Khazix0918",
+          "name": "数字生命卡兹克",
+          "desc": ""
+        },
+        {
+          "handle": "lxfater",
+          "name": "铁锤人",
+          "desc": ""
+        },
+        {
+          "handle": "shao__meng",
+          "name": "meng shao",
+          "desc": ""
+        },
+        {
+          "handle": "wshuyi",
+          "name": "Wang Shuyi",
+          "desc": ""
+        },
+        {
+          "handle": "HongyuanCao",
+          "name": "HongyuanCao",
+          "desc": ""
+        },
+        {
+          "handle": "turingou",
+          "name": "郭宇guoyu.eth",
+          "desc": ""
+        },
+        {
+          "handle": "virushuo",
+          "name": "virushuo",
+          "desc": ""
+        },
+        {
+          "handle": "idoubicc",
+          "name": "idoubi",
+          "desc": ""
+        },
+        {
+          "handle": "xiongchun007",
+          "name": "程序员老熊",
+          "desc": ""
+        },
+        {
+          "handle": "Junyu",
+          "name": "Junyu Wang",
+          "desc": ""
+        },
+        {
+          "handle": "CoderJeffLee",
+          "name": "写增长的子木",
+          "desc": ""
+        },
+        {
+          "handle": "iamtonyzhu",
+          "name": "Tony出海",
+          "desc": ""
+        },
+        {
+          "handle": "readyfor2025",
+          "name": "Moby",
+          "desc": ""
+        },
+        {
+          "handle": "yihui_indie",
+          "name": "Yihui",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-aigc",
+      "name": "中文 · AIGC 与创意",
+      "color": "#f59e0b",
+      "accounts": [
+        {
+          "handle": "op7418",
+          "name": "归藏",
+          "desc": ""
+        },
+        {
+          "handle": "ZHO_ZHO_ZHO",
+          "name": "-Zho-",
+          "desc": ""
+        },
+        {
+          "handle": "hq4ai",
+          "name": "汗青 HQ",
+          "desc": ""
+        },
+        {
+          "handle": "berryxia",
+          "name": "Berryxia.AI",
+          "desc": ""
+        },
+        {
+          "handle": "99aico",
+          "name": "JoJo 99AI",
+          "desc": ""
+        },
+        {
+          "handle": "tangjinzhou",
+          "name": "tangjinzhou",
+          "desc": ""
+        },
+        {
+          "handle": "dingyi",
+          "name": "Ding",
+          "desc": ""
+        },
+        {
+          "handle": "iamluokai",
+          "name": "luokai",
+          "desc": ""
+        },
+        {
+          "handle": "Yangyi",
+          "name": "Yangyi",
+          "desc": ""
+        },
+        {
+          "handle": "haibun",
+          "name": "海辛",
+          "desc": ""
+        },
+        {
+          "handle": "Hayami_kiraa",
+          "name": "早见Hayami",
+          "desc": ""
+        },
+        {
+          "handle": "lijigang",
+          "name": "李继刚",
+          "desc": ""
+        },
+        {
+          "handle": "GlocalTerapy",
+          "name": "七娘",
+          "desc": ""
+        },
+        {
+          "handle": "fankaishuoai",
+          "name": "范凯说AI",
+          "desc": ""
+        },
+        {
+          "handle": "luinlee",
+          "name": "子骅 Zihua Li",
+          "desc": ""
+        },
+        {
+          "handle": "Cydiar404",
+          "name": "Cydiar",
+          "desc": ""
+        },
+        {
+          "handle": "ring_hyacinth",
+          "name": "Ring Hyacinth",
+          "desc": ""
+        },
+        {
+          "handle": "IndieDevHailey",
+          "name": "开发者Hailey",
+          "desc": ""
+        },
+        {
+          "handle": "0xLaughing",
+          "name": "Laughing",
+          "desc": ""
+        },
+        {
+          "handle": "t1anyufan",
+          "name": "Tianyu Fan",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-product",
+      "name": "中文 · 产品与创业",
+      "color": "#ec4899",
+      "accounts": [
+        {
+          "handle": "vista8",
+          "name": "向阳乔木",
+          "desc": ""
+        },
+        {
+          "handle": "oran_ge",
+          "name": "橘子",
+          "desc": ""
+        },
+        {
+          "handle": "JefferyTatsuya",
+          "name": "金田達也",
+          "desc": ""
+        },
+        {
+          "handle": "XDash",
+          "name": "范冰",
+          "desc": ""
+        },
+        {
+          "handle": "thinkingjimmy",
+          "name": "JimmyWong",
+          "desc": ""
+        },
+        {
+          "handle": "lewangx",
+          "name": "LE",
+          "desc": ""
+        },
+        {
+          "handle": "AxtonLiu",
+          "name": "Axton",
+          "desc": ""
+        },
+        {
+          "handle": "yupi996",
+          "name": "程序员鱼皮",
+          "desc": ""
+        },
+        {
+          "handle": "lifesinger",
+          "name": "Frank Wang 玉伯",
+          "desc": ""
+        },
+        {
+          "handle": "Tumeng05",
+          "name": "土猛的员外",
+          "desc": ""
+        },
+        {
+          "handle": "servasyy_ai",
+          "name": "huangserva",
+          "desc": ""
+        },
+        {
+          "handle": "dontbesilent",
+          "name": "dontbesilent",
+          "desc": ""
+        },
+        {
+          "handle": "Valley101_Qian",
+          "name": "硅谷101陈茜",
+          "desc": ""
+        },
+        {
+          "handle": "hongjun60",
+          "name": "泓君Jane",
+          "desc": ""
+        },
+        {
+          "handle": "daluoseo",
+          "name": "大罗SEO",
+          "desc": ""
+        },
+        {
+          "handle": "indie_maker_fox",
+          "name": "Fox@MkSaaS",
+          "desc": ""
+        },
+        {
+          "handle": "tualatrix",
+          "name": "图拉鼎",
+          "desc": ""
+        },
+        {
+          "handle": "luoleiorg",
+          "name": "luolei",
+          "desc": ""
+        },
+        {
+          "handle": "XiaohuiAI666",
+          "name": "程序员小灰",
+          "desc": ""
+        },
+        {
+          "handle": "plidezus",
+          "name": "少楠Plidezus",
+          "desc": ""
+        },
+        {
+          "handle": "JinsFavorites",
+          "name": "dangjin",
+          "desc": ""
+        },
+        {
+          "handle": "nishuang",
+          "name": "倪爽",
+          "desc": ""
+        },
+        {
+          "handle": "austinit",
+          "name": "Austin",
+          "desc": ""
+        },
+        {
+          "handle": "jesselaunz",
+          "name": "Jesse Lau 遁一子",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-news",
+      "name": "中文 · 资讯与工具",
+      "color": "#22c55e",
+      "accounts": [
+        {
+          "handle": "Gorden_Sun",
+          "name": "Gorden Sun",
+          "desc": ""
+        },
+        {
+          "handle": "xiaohu",
+          "name": "小互",
+          "desc": ""
+        },
+        {
+          "handle": "seclink",
+          "name": "Y11",
+          "desc": ""
+        },
+        {
+          "handle": "WaytoAGI",
+          "name": "WaytoAGI",
+          "desc": ""
+        },
+        {
+          "handle": "OwenYoungZh",
+          "name": "Owen",
+          "desc": ""
+        },
+        {
+          "handle": "FinanceYF5",
+          "name": "AI Will",
+          "desc": ""
+        },
+        {
+          "handle": "fuxiangPro",
+          "name": "fuxiang",
+          "desc": ""
+        },
+        {
+          "handle": "mranti",
+          "name": "Michael Anti",
+          "desc": ""
+        },
+        {
+          "handle": "Fenng",
+          "name": "Fenng",
+          "desc": ""
+        },
+        {
+          "handle": "tinyfool",
+          "name": "tinyfool",
+          "desc": ""
+        },
+        {
+          "handle": "AlchainHust",
+          "name": "花叔",
+          "desc": ""
+        },
+        {
+          "handle": "SamuelQZQ",
+          "name": "DN-Samuel",
+          "desc": ""
+        },
+        {
+          "handle": "elliotchen100",
+          "name": "艾略特",
+          "desc": ""
+        },
+        {
+          "handle": "abskoop",
+          "name": "ahhhhfs",
+          "desc": ""
+        },
+        {
+          "handle": "RookieRicardoR",
+          "name": "耳朵",
+          "desc": ""
+        },
+        {
+          "handle": "yan5xu",
+          "name": "yan5xu",
+          "desc": ""
+        },
+        {
+          "handle": "TradesMax",
+          "name": "美股投资网",
+          "desc": ""
+        },
+        {
+          "handle": "XClawLab",
+          "name": "XClaw",
+          "desc": ""
+        },
+        {
+          "handle": "goocarlos",
+          "name": "Luyu Zhang",
+          "desc": ""
+        },
+        {
+          "handle": "gefei55",
+          "name": "哥飞",
+          "desc": ""
+        },
+        {
+          "handle": "nateleex",
+          "name": "李自然 Nate Lee",
+          "desc": ""
+        },
+        {
+          "handle": "tuturetom",
+          "name": "Tom Huang",
+          "desc": ""
+        },
+        {
+          "handle": "xds2000",
+          "name": "Tommy Xiao",
+          "desc": ""
+        },
+        {
+          "handle": "laobaishare",
+          "name": "老白",
+          "desc": ""
+        },
+        {
+          "handle": "recatm",
+          "name": "夹喵",
+          "desc": ""
+        },
+        {
+          "handle": "DigitalNomadLC",
+          "name": "数字牧民LC",
+          "desc": ""
+        },
+        {
+          "handle": "frank_8848",
+          "name": "leon",
+          "desc": ""
+        },
+        {
+          "handle": "AI_Jasonyu",
+          "name": "鱼总聊AI",
+          "desc": ""
+        },
+        {
+          "handle": "wangeguo",
+          "name": "国子",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "en-research",
+      "name": "English · 研究先驱",
+      "color": "#6366f1",
+      "accounts": [
+        {
+          "handle": "lexfridman",
+          "name": "Lex Fridman",
+          "desc": ""
+        },
+        {
+          "handle": "sama",
+          "name": "Sam Altman",
+          "desc": ""
+        },
+        {
+          "handle": "kaifulee",
+          "name": "Kai-Fu Lee 李开复",
+          "desc": ""
+        },
+        {
+          "handle": "ID_AA_Carmack",
+          "name": "John Carmack",
+          "desc": ""
+        },
+        {
+          "handle": "AndrewYNg",
+          "name": "Andrew Ng",
+          "desc": ""
+        },
+        {
+          "handle": "karpathy",
+          "name": "Andrej Karpathy",
+          "desc": ""
+        },
+        {
+          "handle": "2morrowknight",
+          "name": "Sean Gardner",
+          "desc": ""
+        },
+        {
+          "handle": "ylecun",
+          "name": "Yann LeCun",
+          "desc": ""
+        },
+        {
+          "handle": "Scobleizer",
+          "name": "Robert Scoble",
+          "desc": ""
+        },
+        {
+          "handle": "drfeifei",
+          "name": "Fei-Fei Li",
+          "desc": ""
+        },
+        {
+          "handle": "KirkDBorne",
+          "name": "Kirk Borne",
+          "desc": ""
+        },
+        {
+          "handle": "fchollet",
+          "name": "François Chollet",
+          "desc": ""
+        },
+        {
+          "handle": "rowancheung",
+          "name": "Rowan Cheung",
+          "desc": ""
+        },
+        {
+          "handle": "antgrasso",
+          "name": "Antonio Grasso",
+          "desc": ""
+        },
+        {
+          "handle": "demishassabis",
+          "name": "Demis Hassabis",
+          "desc": ""
+        },
+        {
+          "handle": "Ronald_vanLoon",
+          "name": "Ronald van Loon",
+          "desc": ""
+        },
+        {
+          "handle": "TamaraMcCleary",
+          "name": "Tamara McCleary",
+          "desc": ""
+        },
+        {
+          "handle": "geoffreyhinton",
+          "name": "Geoffrey Hinton",
+          "desc": ""
+        },
+        {
+          "handle": "goodfellow_ian",
+          "name": "Ian Goodfellow",
+          "desc": ""
+        },
+        {
+          "handle": "jeffdean",
+          "name": "Jeff Dean",
+          "desc": ""
+        },
+        {
+          "handle": "erikbryn",
+          "name": "Erik Brynjolfsson",
+          "desc": ""
+        },
+        {
+          "handle": "timnitgebru",
+          "name": "Timnit Gebru",
+          "desc": ""
+        },
+        {
+          "handle": "oriolvinyalsml",
+          "name": "Oriol Vinyals",
+          "desc": ""
+        },
+        {
+          "handle": "ceobillionaire",
+          "name": "Vincent Boucher",
+          "desc": ""
+        },
+        {
+          "handle": "soumithchintala",
+          "name": "Soumith Chintala",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "en-leaders",
+      "name": "English · 行业领袖",
+      "color": "#a371f7",
+      "accounts": [
+        {
+          "handle": "waitin4agi_",
+          "name": "Varun Mayya",
+          "desc": ""
+        },
+        {
+          "handle": "sallyeaves",
+          "name": "Sally Eaves",
+          "desc": ""
+        },
+        {
+          "handle": "bernardmarr",
+          "name": "Bernard Marr",
+          "desc": ""
+        },
+        {
+          "handle": "fabiomoioli",
+          "name": "Fabio Moioli",
+          "desc": ""
+        },
+        {
+          "handle": "pascal_bornet",
+          "name": "Pascal Bornet",
+          "desc": ""
+        },
+        {
+          "handle": "GaryMarcus",
+          "name": "Gary Marcus",
+          "desc": ""
+        },
+        {
+          "handle": "thatroblennon",
+          "name": "Rob Lennon",
+          "desc": ""
+        },
+        {
+          "handle": "randal_olson",
+          "name": "Randy Olson",
+          "desc": ""
+        },
+        {
+          "handle": "Nicochan33",
+          "name": "Nicolas Babin",
+          "desc": ""
+        },
+        {
+          "handle": "chrismessina",
+          "name": "Chris Messina",
+          "desc": ""
+        },
+        {
+          "handle": "iainljbrown",
+          "name": "Iain Brown",
+          "desc": ""
+        },
+        {
+          "handle": "HaroldSinnott",
+          "name": "Harold Sinnott",
+          "desc": ""
+        },
+        {
+          "handle": "DataChaz",
+          "name": "Data Chaz",
+          "desc": ""
+        },
+        {
+          "handle": "mrgreen",
+          "name": "Lorenzo Green",
+          "desc": ""
+        },
+        {
+          "handle": "NandoDF",
+          "name": "Nando de Freitas",
+          "desc": ""
+        },
+        {
+          "handle": "katecrawford",
+          "name": "Kate Crawford",
+          "desc": ""
+        },
+        {
+          "handle": "abhi1thakur",
+          "name": "Abhishek Thakur",
+          "desc": ""
+        },
+        {
+          "handle": "yoheinakajima",
+          "name": "Yohei Nakajima",
+          "desc": ""
+        },
+        {
+          "handle": "YuHelenYu",
+          "name": "Helen Yu",
+          "desc": ""
+        },
+        {
+          "handle": "nigewillson",
+          "name": "Nige Roberts-Willson",
+          "desc": ""
+        },
+        {
+          "handle": "_karenhao",
+          "name": "Karen Hao",
+          "desc": ""
+        },
+        {
+          "handle": "nathanlands",
+          "name": "Nathan Lands",
+          "desc": ""
+        },
+        {
+          "handle": "ingliguori",
+          "name": "Giuliano Liguori",
+          "desc": ""
+        },
+        {
+          "handle": "mrogati",
+          "name": "Monica Rogati",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "en-creators",
+      "name": "English · 创作者与教育",
+      "color": "#14b8a6",
+      "accounts": [
+        {
+          "handle": "oliverchristie",
+          "name": "Oliver Christie",
+          "desc": ""
+        },
+        {
+          "handle": "mfordfuture",
+          "name": "Martin Ford",
+          "desc": ""
+        },
+        {
+          "handle": "nathanbenaich",
+          "name": "Nathan Benaich",
+          "desc": ""
+        },
+        {
+          "handle": "terenceleungsf",
+          "name": "Terence Leung",
+          "desc": ""
+        },
+        {
+          "handle": "alliekmiller",
+          "name": "Allie Miller",
+          "desc": ""
+        },
+        {
+          "handle": "CatherineAdenle",
+          "name": "Catherine Adenle",
+          "desc": ""
+        },
+        {
+          "handle": "bilawalsidhu",
+          "name": "Bilawal Sidhu",
+          "desc": ""
+        },
+        {
+          "handle": "marcusborba",
+          "name": "Marcus Borba",
+          "desc": ""
+        },
+        {
+          "handle": "miketamir",
+          "name": "Mike Tamir",
+          "desc": ""
+        },
+        {
+          "handle": "grok_",
+          "name": "Kate Darling",
+          "desc": ""
+        },
+        {
+          "handle": "vinod1975",
+          "name": "Vinod Sharma",
+          "desc": ""
+        },
+        {
+          "handle": "svenphilipsen",
+          "name": "Sven Philipsen",
+          "desc": ""
+        },
+        {
+          "handle": "bamitav",
+          "name": "Amitav Bhattacharjee",
+          "desc": ""
+        },
+        {
+          "handle": "fogoros",
+          "name": "Lucian Fogoros",
+          "desc": ""
+        },
+        {
+          "handle": "CadeMetz",
+          "name": "Cade Metz",
+          "desc": ""
+        },
+        {
+          "handle": "rodneyabrooks",
+          "name": "Rodney Brooks",
+          "desc": ""
+        },
+        {
+          "handle": "wellingmax",
+          "name": "Max Welling",
+          "desc": ""
+        },
+        {
+          "handle": "marktabnet",
+          "name": "Mark Tabladillo",
+          "desc": ""
+        },
+        {
+          "handle": "etzioni",
+          "name": "Oren Etzioni",
+          "desc": ""
+        },
+        {
+          "handle": "alexjc",
+          "name": "Alex J. Champandard",
+          "desc": ""
+        },
+        {
+          "handle": "genekogan",
+          "name": "Gene Kogan",
+          "desc": ""
+        },
+        {
+          "handle": "mjrobbins",
+          "name": "Martin F. Robbins",
+          "desc": ""
+        },
+        {
+          "handle": "localghost",
+          "name": "Aaron Ng",
+          "desc": ""
+        },
+        {
+          "handle": "bobgourley",
+          "name": "Bob Gourley",
+          "desc": ""
+        },
+        {
+          "handle": "andyjankowski",
+          "name": "Andy Jankowski",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "en-analysts",
+      "name": "English · 分析师与伦理",
+      "color": "#84cc16",
+      "accounts": [
+        {
+          "handle": "paulroetzer",
+          "name": "Paul Roetzer",
+          "desc": ""
+        },
+        {
+          "handle": "SourabhSKatoch",
+          "name": "Sourabh Singh Katoch",
+          "desc": ""
+        },
+        {
+          "handle": "bobviolino",
+          "name": "Bob Violino",
+          "desc": ""
+        },
+        {
+          "handle": "terence_mills",
+          "name": "Terence Mills",
+          "desc": ""
+        },
+        {
+          "handle": "johnchavens",
+          "name": "John C. Havens",
+          "desc": ""
+        },
+        {
+          "handle": "debashis_dutta",
+          "name": "Debashis Dutta",
+          "desc": ""
+        },
+        {
+          "handle": "davidwkenny",
+          "name": "David Kenny",
+          "desc": ""
+        },
+        {
+          "handle": "learnopencv",
+          "name": "Satya Mallick",
+          "desc": ""
+        },
+        {
+          "handle": "petitegeek",
+          "name": "Dr. Angelica Lim",
+          "desc": ""
+        },
+        {
+          "handle": "faustospain",
+          "name": "Fausto P. Garcia Marquez",
+          "desc": ""
+        },
+        {
+          "handle": "wil_bielert",
+          "name": "Wilhelm Bielert",
+          "desc": ""
+        },
+        {
+          "handle": "sarahburnett",
+          "name": "Sarah Burnett",
+          "desc": ""
+        },
+        {
+          "handle": "marek_rosa",
+          "name": "Marek Rosa",
+          "desc": ""
+        },
+        {
+          "handle": "sudalairajkumar",
+          "name": "Sudalai Rajkumar",
+          "desc": ""
+        },
+        {
+          "handle": "hsryueli",
+          "name": "YueLi-HSR",
+          "desc": ""
+        },
+        {
+          "handle": "Whats_AI",
+          "name": "Louis Bouchard",
+          "desc": ""
+        },
+        {
+          "handle": "inma_martinez",
+          "name": "Inma Martinez",
+          "desc": ""
+        },
+        {
+          "handle": "pandeyajay7",
+          "name": "Ajay Pandey",
+          "desc": ""
+        },
+        {
+          "handle": "ibarkin",
+          "name": "Ian Barkin",
+          "desc": ""
+        },
+        {
+          "handle": "rschmelzer",
+          "name": "Ronald Schmelzer",
+          "desc": ""
+        },
+        {
+          "handle": "jainkunal",
+          "name": "Kunal Jain",
+          "desc": ""
+        },
+        {
+          "handle": "DaphneKoller",
+          "name": "Daphne Koller",
+          "desc": ""
+        },
+        {
+          "handle": "mvollmer1",
+          "name": "Marcell Vollmer",
+          "desc": ""
+        },
+        {
+          "handle": "SullyOmarr",
+          "name": "Sully",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "crypto-core",
+      "name": "加密 · BTC & 宏观",
+      "color": "#f7931a",
+      "accounts": [
+        {
+          "handle": "saylor",
+          "name": "Michael Saylor",
+          "desc": ""
+        },
+        {
+          "handle": "APompliano",
+          "name": "Anthony Pompliano",
+          "desc": ""
+        },
+        {
+          "handle": "100trillionUSD",
+          "name": "PlanB",
+          "desc": ""
+        },
+        {
+          "handle": "LynAldenContact",
+          "name": "Lyn Alden",
+          "desc": ""
+        },
+        {
+          "handle": "CryptoHayes",
+          "name": "Arthur Hayes",
+          "desc": ""
+        },
+        {
+          "handle": "zachxbt",
+          "name": "ZachXBT",
+          "desc": ""
+        },
+        {
+          "handle": "VitalikButerin",
+          "name": "Vitalik Buterin",
+          "desc": ""
+        },
+        {
+          "handle": "cz_binance",
+          "name": "CZ 赵长鹏",
+          "desc": ""
+        },
+        {
+          "handle": "balajis",
+          "name": "Balaji Srinivasan",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "crypto-cn",
+      "name": "加密 · 中文区",
+      "color": "#fbbf24",
+      "accounts": [
+        {
+          "handle": "ChandlerGuo",
+          "name": "宝二爷",
+          "desc": ""
+        },
+        {
+          "handle": "PhyrexNi",
+          "name": "Phyrex",
+          "desc": ""
+        },
+        {
+          "handle": "wublockchain12",
+          "name": "吴说区块链",
+          "desc": ""
+        },
+        {
+          "handle": "bitfish",
+          "name": "DiscusFish",
+          "desc": ""
+        },
+        {
+          "handle": "Jiangzhuoer2",
+          "name": "江卓尔",
+          "desc": ""
+        },
+        {
+          "handle": "Jackyi_ld",
+          "name": "易理华",
+          "desc": ""
+        },
+        {
+          "handle": "liujiaolian",
+          "name": "刘教链",
+          "desc": ""
+        },
+        {
+          "handle": "tmel0211",
+          "name": "tmel",
+          "desc": ""
+        },
+        {
+          "handle": "evilcos",
+          "name": "余弦",
+          "desc": ""
+        },
+        {
+          "handle": "jiqizhixin",
+          "name": "机器之心",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "fintwit",
+      "name": "财经 · 宏观投资",
+      "color": "#10b981",
+      "accounts": [
+        {
+          "handle": "charliebilello",
+          "name": "Charlie Bilello",
+          "desc": ""
+        },
+        {
+          "handle": "LizAnnSonders",
+          "name": "Liz Ann Sonders",
+          "desc": ""
+        },
+        {
+          "handle": "morganhousel",
+          "name": "Morgan Housel",
+          "desc": ""
+        },
+        {
+          "handle": "naval",
+          "name": "Naval Ravikant",
+          "desc": ""
+        },
+        {
+          "handle": "BrianFeroldi",
+          "name": "Brian Feroldi",
+          "desc": ""
+        },
+        {
+          "handle": "AswathDamodaran",
+          "name": "Aswath Damodaran",
+          "desc": ""
+        },
+        {
+          "handle": "pmarca",
+          "name": "Marc Andreessen",
+          "desc": ""
+        },
+        {
+          "handle": "cdixon",
+          "name": "Chris Dixon",
+          "desc": ""
+        },
+        {
+          "handle": "andrewchen",
+          "name": "Andrew Chen",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-oversea",
+      "name": "中文 · 出海 & 增长",
+      "color": "#0ea5e9",
+      "accounts": [
+        {
+          "handle": "nextify2024",
+          "name": "nextify",
+          "desc": ""
+        },
+        {
+          "handle": "weijunext",
+          "name": "廖伟俊",
+          "desc": ""
+        },
+        {
+          "handle": "JourneymanChina",
+          "name": "Journeyman",
+          "desc": ""
+        },
+        {
+          "handle": "dev_afei",
+          "name": "阿飞",
+          "desc": ""
+        },
+        {
+          "handle": "luobogooooo",
+          "name": "萝卜",
+          "desc": ""
+        },
+        {
+          "handle": "GoSailGlobal",
+          "name": "GoSail",
+          "desc": ""
+        },
+        {
+          "handle": "chuhaiqu",
+          "name": "出海去",
+          "desc": ""
+        },
+        {
+          "handle": "santiagoyoungus",
+          "name": "Santiago",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-indie",
+      "name": "中文 · 独立开发者",
+      "color": "#8b5cf6",
+      "accounts": [
+        {
+          "handle": "guishou_56",
+          "name": "鬼手",
+          "desc": ""
+        },
+        {
+          "handle": "9yearfish",
+          "name": "九年鱼",
+          "desc": ""
+        },
+        {
+          "handle": "benshandebiao",
+          "name": "本善",
+          "desc": ""
+        },
+        {
+          "handle": "hwwaanng",
+          "name": "Wang",
+          "desc": ""
+        },
+        {
+          "handle": "waylybaye",
+          "name": "拜宝",
+          "desc": ""
+        },
+        {
+          "handle": "randyloop",
+          "name": "Randy",
+          "desc": ""
+        },
+        {
+          "handle": "livid",
+          "name": "Livid",
+          "desc": ""
+        },
+        {
+          "handle": "shengxj1",
+          "name": "盛",
+          "desc": ""
+        },
+        {
+          "handle": "liuyi0922",
+          "name": "刘毅",
+          "desc": ""
+        },
+        {
+          "handle": "fkysly",
+          "name": "风口世里",
+          "desc": ""
+        },
+        {
+          "handle": "zhixianio",
+          "name": "知闲",
+          "desc": ""
+        },
+        {
+          "handle": "Pluvio9yte",
+          "name": "Pluvio",
+          "desc": ""
+        },
+        {
+          "handle": "cellinlab",
+          "name": "cellin",
+          "desc": ""
+        },
+        {
+          "handle": "kasong2048",
+          "name": "kasong",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-esim",
+      "name": "中文 · eSIM & 数字游民",
+      "color": "#06b6d4",
+      "accounts": [
+        {
+          "handle": "realNyarime",
+          "name": "奶昔",
+          "desc": ""
+        },
+        {
+          "handle": "RocM301",
+          "name": "RocM",
+          "desc": ""
+        },
+        {
+          "handle": "EvaCmore",
+          "name": "Eva",
+          "desc": ""
+        },
+        {
+          "handle": "shuziyimin",
+          "name": "数字移民",
+          "desc": ""
+        },
+        {
+          "handle": "itangtalk",
+          "name": "iTang",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "cn-knowledge",
+      "name": "中文 · 知识与副业",
+      "color": "#eab308",
+      "accounts": [
+        {
+          "handle": "ruanyf",
+          "name": "阮一峰",
+          "desc": ""
+        },
+        {
+          "handle": "Svwang1",
+          "name": "Svwang",
+          "desc": ""
+        },
+        {
+          "handle": "sspai_com",
+          "name": "少数派",
+          "desc": ""
+        },
+        {
+          "handle": "pongba",
+          "name": "刘未鹏",
+          "desc": ""
+        },
+        {
+          "handle": "Francis_YAO_",
+          "name": "Francis Yao",
+          "desc": ""
+        },
+        {
+          "handle": "foxshuo",
+          "name": "Fox说",
+          "desc": ""
+        },
+        {
+          "handle": "Astronaut_1216",
+          "name": "宇航员",
+          "desc": ""
+        },
+        {
+          "handle": "ityouknows",
+          "name": "纯洁的微笑",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": "builders",
+      "name": "Builder / 工具 / 其他",
+      "color": "#94a3b8",
+      "accounts": [
+        {
+          "handle": "gdb",
+          "name": "Greg Brockman",
+          "desc": ""
+        },
+        {
+          "handle": "DarioAmodei",
+          "name": "Dario Amodei",
+          "desc": ""
+        },
+        {
+          "handle": "elonmusk",
+          "name": "Elon Musk",
+          "desc": ""
+        },
+        {
+          "handle": "JimFan",
+          "name": "Jim Fan",
+          "desc": ""
+        },
+        {
+          "handle": "simonw",
+          "name": "Simon Willison",
+          "desc": ""
+        },
+        {
+          "handle": "rasbt",
+          "name": "Sebastian Raschka",
+          "desc": ""
+        },
+        {
+          "handle": "swyx",
+          "name": "Shawn Wang",
+          "desc": ""
+        },
+        {
+          "handle": "jeremyphoward",
+          "name": "Jeremy Howard",
+          "desc": ""
+        },
+        {
+          "handle": "SchmidhuberAI",
+          "name": "Jürgen Schmidhuber",
+          "desc": ""
+        },
+        {
+          "handle": "OfficialLoganK",
+          "name": "Logan Kilpatrick",
+          "desc": ""
+        },
+        {
+          "handle": "mattshumer_",
+          "name": "Matt Shumer",
+          "desc": ""
+        },
+        {
+          "handle": "petergyang",
+          "name": "Peter Yang",
+          "desc": ""
+        },
+        {
+          "handle": "theo",
+          "name": "Theo",
+          "desc": ""
+        },
+        {
+          "handle": "levelsio",
+          "name": "levelsio",
+          "desc": ""
+        },
+        {
+          "handle": "vikhyatk",
+          "name": "Vikhyat",
+          "desc": ""
+        },
+        {
+          "handle": "steipete",
+          "name": "Peter Steinberger",
+          "desc": ""
+        },
+        {
+          "handle": "openclaw",
+          "name": "OpenClaw",
+          "desc": ""
+        },
+        {
+          "handle": "AlexFinn",
+          "name": "Alex Finn",
+          "desc": ""
+        },
+        {
+          "handle": "MatthewBerman",
+          "name": "Matthew Berman",
+          "desc": ""
+        },
+        {
+          "handle": "LiorOnAI",
+          "name": "Lior",
+          "desc": ""
+        },
+        {
+          "handle": "Codie_Sanchez",
+          "name": "Codie Sanchez",
+          "desc": ""
+        },
+        {
+          "handle": "ideabrowser",
+          "name": "Idea Browser",
+          "desc": ""
+        },
+        {
+          "handle": "gregisenberg",
+          "name": "Greg Isenberg",
+          "desc": ""
+        },
+        {
+          "handle": "CuiMao",
+          "name": "CuiMao",
+          "desc": ""
+        }
+      ]
+    }
+  ]
+}
