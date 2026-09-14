@@ -1,6 +1,7 @@
 # AI Signal Atlas
 
-一个面向 X（原 Twitter）公开内容的 AI 情报看板。它将精选账号、最新动态、分类关系和影响力数据整理到一个简洁的本地 Web 界面中，帮助你快速发现值得关注的研究、产品、创业和行业趋势。
+一个面向 X（原 Twitter）公开内容的 AI 情报看板。它将精选账号、最新动态、分类关系和影响力数据整理到一个简洁的本地 Web 界面中，帮助你快速发现值得关注的研究、产品、创业和行业趋势。<img width="1344" height="532" alt="image" src="https://github.com/user-attachments/assets/4eab1917-cd20-40d5-acde-ac80b9dbcb44" />
+
 
 > **Signal Atlas · Tracking Intelligence in Motion**
 
@@ -15,6 +16,9 @@
 - **响应式设计**：适配桌面、平板和移动设备。
 - **低额度模式**：页面读取本地缓存；只有主动点击刷新时才请求数据。
 - **账号管理**：通过界面或 `accounts.json` 管理分类和账号。
+
+<img width="1308" height="623" alt="image" src="https://github.com/user-attachments/assets/0b2f3bd9-eaf4-4da8-b053-b408709d69b8" />
+
 
 ## 技术栈
 
@@ -146,22 +150,6 @@ x-daily-dashboard/
 └── .gitignore              # 私密配置和运行时文件排除规则
 ```
 
-## GitHub 发布检查清单
-
-发布前建议执行：
-
-```bash
-git status
-git diff -- .env .env.example accounts.json profiles_cache.json
-git ls-files | grep -E '(^|/)(\.env|profiles_cache\.json)$'
-```
-
-确认以下内容没有进入仓库：
-
-- API Key、Cookie、Authorization Header
-- 私人账号、内部账号和未公开名单
-- `profiles_cache.json` 或包含个人数据的导出文件
-- 本机路径、日志、调试输出和临时文件
 
 ## 贡献
 
@@ -176,18 +164,5 @@ node --check public/app.js
 
 ## 许可
 
-本项目采用 MIT License。数据接口和 X 内容仍受其各自服务条款约束。
+本项目采用 MIT License。数据接口和 X 内容仍受其各自服务条款约束。<img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/1be77723-5c99-421a-a2f1-99f848a2ddb0" />
 
-## 致谢
-
-- 账号灵感来自 [awesome-ai-x-influencers](https://github.com/codeman008/awesome-ai-x-influencers)
-- 数据接口由 [twitterapi.io](https://twitterapi.io/) 提供
-- 作者：[codeman008](https://github.com/codeman008)
-
-## 界面预览
-
-首页知识图谱（本地缓存数据示例）：
-
-![AI Signal Atlas 首页](docs/screenshot-home.png)
-
-截图由项目本地服务生成，实际账号动态和粉丝数据会随缓存更新时间变化。
